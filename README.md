@@ -9,7 +9,6 @@
   <img style="height:22px" alt="kotlin" src="https://img.shields.io/badge/-Kotlin-7971E1?style=flat-square&logo=kotlin&logoColor=white">
   <img style="height:22px" alt="android" src="https://img.shields.io/badge/-Android-70D78B?style=flat-square&logo=android&logoColor=white">
   <img style="height:22px" alt="java" src="https://img.shields.io/badge/-Java-ff1234?style=flat-square&logo=java&logoColor=white">
-  <img style="height:22px" alt="fcm" src="https://img.shields.io/badge/-FCM-ff1234?style=flat-square&logo=java&logoColor=white">
   <img style="height:22px" alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img style="height:22px" alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img style="height:22px" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
