@@ -24,7 +24,7 @@ If you have any questiom, you can discuss with me.
 You can call me Ben.    
 I‘m an Android developer.   
 Over 2 Years of programing experience.  
-I have developed apps with over 300,000 downloads => [iTalkuTalk](https://play.google.com/store/apps/details?id=lab.italkutalk)
+I have developed apps with over 300,000 downloads. => [iTalkuTalk](https://play.google.com/store/apps/details?id=lab.italkutalk)
 </p>
 
 ---
