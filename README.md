@@ -1,10 +1,14 @@
 ![v2-24ea1d3eaef1708bc27e1fff3097181c_ipico](https://user-images.githubusercontent.com/22675497/162147298-6941ac72-5264-408f-a35d-f10135ae75bc.png)
-Hey there 👋,
+
+<h2 align="start">Hey there 👋 <br> My name is Yu Shu Lin</h2>
+I have a passion for learning and discuss with others.<br>
+If you have any questiom, you can discuss with me<br>
 
 ## I little bit about me
-My name is Yu Shu Lin, you can call me Ben.<br>
-I‘m Android developer.<br>
+You can call me Ben.<br>
+I‘m an Android developer.<br>
 Over 2 Years of programing experience.<br>
+I will go to the gym in my free time.<br>
 
 ---
 
