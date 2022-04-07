@@ -21,7 +21,7 @@
 ---
 
 <p>
-  <img width="100px" height="100px" align='right' src="https://user-images.githubusercontent.com/22675497/162154857-53349d67-289f-4140-8bc5-4c4b0b1b0818.jpeg">
+  <img width="150px" height="100px" align='right' src="https://user-images.githubusercontent.com/22675497/162193592-1e98b773-3f35-404f-b31f-bb2e0c6e200f.gif">
 </p>
 
 <p>
@@ -70,3 +70,4 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 - GitHub：[t109368015](https://www.github.com/t109368015)
 
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
