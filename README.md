@@ -1,6 +1,26 @@
 <h1 align="center">Hey there 👋 </h1>
 
 <p>
+
+</p>
+
+<h3>Things I code with</h3>
+<p>
+  <img style="height:23px" alt="kotlin" src="https://img.shields.io/badge/-Kotlin-7971E1?style=flat-square&logo=kotlin&logoColor=white">
+  <img style="height:23" alt="android" src="https://img.shields.io/badge/-Android-70D78B?style=flat-square&logo=android&logoColor=white">
+  <img style="height:23px" alt="java" src="https://img.shields.io/badge/-Java-ff1234?style=flat-square&logo=java&logoColor=white">
+  <img style="height:23px" alt="fcm" src="https://img.shields.io/badge/-FCM-ff1234?style=flat-square&logo=java&logoColor=white">
+  <img style="height:23px" alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img style="height:23px" alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img style="height:23px" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img style="height:23px" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img style="height:23px" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+ 
+</p>
+
+---
+
+<p>
   <img width="100px" height="100px" align='right' src="https://user-images.githubusercontent.com/22675497/162154857-53349d67-289f-4140-8bc5-4c4b0b1b0818.jpeg">
 </p>
 
@@ -47,6 +67,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 ## Get in touch
 - Email：ben111497@gmail.com
-- GitHub：t109368015
+- GitHub：[t109368015](https://www.github.com/t109368015)
 
 
