@@ -1,9 +1,17 @@
+![v2-24ea1d3eaef1708bc27e1fff3097181c_ipico](https://user-images.githubusercontent.com/22675497/162147298-6941ac72-5264-408f-a35d-f10135ae75bc.png)
+Hey there 👋,
+
+## I little bit about me
+My name is Yu Shu Lin, you can call me Ben.<br>
+I‘m Android developer.<br>
+Over 2 Years of programing experience.<br>
+
+---
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=t109368015&label=Visitors&color=0e75b6&style=flat"/>
 <!--     <img src="https://img.shields.io/github/followers/t109368015?label=Followers"> -->
 </p>
-
----
 
 <div align="center">
   <a href="https://www.github.com/t109368015" target="blank">
@@ -16,14 +24,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 ---
 
-## I little bit about me
-My name is Yu Shu Lin, you can call me Ben.<br>
-I‘m Android developer.<br>
-Over 2 Years of programing experience.<br>
-
----
-
 ## Get in touch
-<div align="start">
-    <img width=30dp height=30px src="https://user-images.githubusercontent.com/22675497/162143386-73c98cec-eb6d-4b62-9e1e-91ac58a878f5.png"><span height=30px>：ben111497@gmail.com</span>
-</div>
+- Email：ben111497@gmail.com
+- GitHub：t109368015
