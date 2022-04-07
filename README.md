@@ -8,7 +8,7 @@
 <h3>My name is Yu Shu Lin</h3>
 
 I have a passion for learning and discuss with others.  
-If you have any questiom, you can discuss with me.   
+If you have any question, you can discuss with me.   
 
 </p>
 
@@ -22,7 +22,7 @@ If you have any questiom, you can discuss with me.
 <h3>A little bit about me</h3>
 
 You can call me Ben.    
-I‘m an Android developer.   
+I‘m an Android developer.  
 Over 2 Years of programing experience.  
 I have developed apps with over 300,000 downloads. => [iTalkuTalk](https://play.google.com/store/apps/details?id=lab.italkutalk)
 </p>
