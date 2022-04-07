@@ -15,3 +15,15 @@
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 ---
+
+## I little bit about me
+My name is Yu Shu Lin, you can call me Ben.<br>
+I‘m Android developer.<br>
+Over 2 Years of programing experience.<br>
+
+---
+
+## Get in touch
+<div align="start">
+    <img width=30dp height=30px src="https://user-images.githubusercontent.com/22675497/162143386-73c98cec-eb6d-4b62-9e1e-91ac58a878f5.png"><span height=30px>：ben111497@gmail.com</span>
+</div>
