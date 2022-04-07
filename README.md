@@ -1,14 +1,31 @@
-![v2-24ea1d3eaef1708bc27e1fff3097181c_ipico](https://user-images.githubusercontent.com/22675497/162147298-6941ac72-5264-408f-a35d-f10135ae75bc.png)
+<h1 align="center">Hey there 👋 </h1>
 
-<h2 align="start">Hey there 👋 <br> My name is Yu Shu Lin</h2>
-I have a passion for learning and discuss with others.<br>
-If you have any questiom, you can discuss with me<br>
+<p>
+  <img width="100px" height="100px" align='right' src="https://user-images.githubusercontent.com/22675497/162154857-53349d67-289f-4140-8bc5-4c4b0b1b0818.jpeg">
+</p>
 
-## I little bit about me
-You can call me Ben.<br>
-I‘m an Android developer.<br>
-Over 2 Years of programing experience.<br>
-I will go to the gym in my free time.<br>
+<p>
+<h3>My name is Yu Shu Lin</h3>
+
+I have a passion for learning and discuss with others.  
+If you have any questiom, you can discuss with me.   
+
+</p>
+
+---
+
+<p>
+  <img width="150px" height="135px" align='left' src="https://user-images.githubusercontent.com/22675497/162159887-43aa4ca3-9491-467c-8a51-627f57977c75.png">
+</p>
+
+<p>
+<h3>A little bit about me</h3>
+
+You can call me Ben.    
+I‘m an Android developer.   
+Over 2 Years of programing experience.  
+I have developed apps with over 300,000 downloads => [iTalkuTalk](https://play.google.com/store/apps/details?id=lab.italkutalk)
+</p>
 
 ---
 
@@ -31,3 +48,5 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## Get in touch
 - Email：ben111497@gmail.com
 - GitHub：t109368015
+
+
