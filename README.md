@@ -3,20 +3,20 @@
 <h3>Things I code with</h3>
 <p>
   <a href="https://kotlinlang.org/">
-  <img style="height:23px" alt="kotlin" src="https://img.shields.io/badge/-Kotlin-E4E4E4?style=flat&logo=kotlin&logoColor=7971E1"></a>
-  <img style="height:23px" alt="android" src="https://img.shields.io/badge/-Android-E4E4E4?style=flat&logo=android&logoColor=70D78B">
-  <img style="height:23px" alt="java" src="https://img.shields.io/badge/-Java-E4E4E4?style=flat&logo=java&logoColor=ff1234">
-  <img style="height:23px" alt="github actions" src="https://img.shields.io/badge/-Github_Actions-E4E4E4?style=flate&logo=github-actions&logoColor=2088FF" />
-  <img style="height:23px" alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-E4E4E4?style=flat&logo=google-cloud&logoColor=1a73e8" />
-  <img style="height:23px" alt="html5" src="https://img.shields.io/badge/-HTML5-E4E4E4?style=flat&logo=html5&logoColor=E34F26" />
-  <img style="height:23px" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-E4E4E4?style=flat&logo=Node.js&logoColor=43853d" />
-  <img style="height:23px" alt="c" src="https://img.shields.io/badge/-c-E4E4E4?style=flat&logo=c&logoColor=black" />
-  <img style="height:23px" alt="Git" src="https://img.shields.io/badge/-Git-d4d4d4?style=flat&logo=git&logoColor=FF7802"></a>
+  <img style="height:23px" alt="kotlin" src="https://img.shields.io/badge/-Kotlin-F7F7F7?style=flat&logo=kotlin&logoColor=7971E1"></a>
+  <img style="height:23px" alt="android" src="https://img.shields.io/badge/-Android-F7F7F7?style=flat&logo=android&logoColor=70D78B">
+  <img style="height:23px" alt="java" src="https://img.shields.io/badge/-Java-F7F7F7?style=flat&logo=java&logoColor=ff1234">
+  <img style="height:23px" alt="github actions" src="https://img.shields.io/badge/-Github_Actions-F7F7F7?style=flate&logo=github-actions&logoColor=2088FF" />
+  <img style="height:23px" alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-F7F7F7?style=flat&logo=google-cloud&logoColor=1a73e8" />
+  <img style="height:23px" alt="html5" src="https://img.shields.io/badge/-HTML5-F7F7F7?style=flat&logo=html5&logoColor=E34F26" />
+  <img style="height:23px" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-F7F7F7?style=flat&logo=Node.js&logoColor=43853d" />
+  <img style="height:23px" alt="c" src="https://img.shields.io/badge/-c-F7F7F7?style=flat&logo=c&logoColor=black" />
+  <img style="height:23px" alt="Git" src="https://img.shields.io/badge/-Git-F7F7F7?style=flat&logo=git&logoColor=FF7802"></a>
   <a href="https://firebase.google.com/">
-  <img style="height:23px" alt="Firebase" src="https://img.shields.io/badge/-Firebase-d4d4d4?style=flat&logo=Firebase&logoColor=F6820D"></a>
-  <img style="height:23px" alt="Figma" src="https://img.shields.io/badge/-Figma-d4d4d4?style=flat&logo=figma&logoColor=F24E1E"/>
-  <img style="height:23px" alt="Slack" src="https://img.shields.io/badge/-Slack-d4d4d4?style=flat&logo=slack&logoColor=4A154B"/>
-  <img style="height:23px" alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-d4d4d4?style=flat&logo=Socket.io&logoColor=010101"/>
+  <img style="height:23px" alt="Firebase" src="https://img.shields.io/badge/-Firebase-F7F7F7?style=flat&logo=Firebase&logoColor=F6820D"></a>
+  <img style="height:23px" alt="Figma" src="https://img.shields.io/badge/-Figma-F7F7F7?style=flat&logo=figma&logoColor=F24E1E"/>
+  <img style="height:23px" alt="Slack" src="https://img.shields.io/badge/-Slack-F7F7F7?style=flat&logo=slack&logoColor=4A154B"/>
+  <img style="height:23px" alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-F7F7F7?style=flat&logo=Socket.io&logoColor=010101"/>
 </p>
 
 ---
