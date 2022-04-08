@@ -16,8 +16,6 @@
 
 ---
 
-<table><tr><td bgcolor="#FFFFFF" border-color="#FF0000">背景色是：orange</td></tr></table>
-
 <p>
   <img height="135px" align='right' src="https://user-images.githubusercontent.com/22675497/162193592-1e98b773-3f35-404f-b31f-bb2e0c6e200f.gif">
 </p>
@@ -63,7 +61,7 @@ val myself = object {
     private fun getPersonalInfo() = object {
         val name = "Yu Shu Lin"
         val nickName = "Ben"
-        val Country = "Taiwan"
+        val country = "Taiwan"
         val year = "24"
         val languageSpoken = arrayListOf<String>("zh_CN", "en_US")
         val hobbies = "Sport, coding, watching dramas, climbing mountains"
