@@ -31,7 +31,7 @@ If you have any question, you can discuss with me.
 ---
 
 <p>
-  <img width="150px" height="135px" align='left' src="https://user-images.githubusercontent.com/22675497/162159887-43aa4ca3-9491-467c-8a51-627f57977c75.png">
+  <img width="160px" height="160px" align='left' src="https://user-images.githubusercontent.com/22675497/162159887-43aa4ca3-9491-467c-8a51-627f57977c75.png">
 </p>
 
 <p>
@@ -40,8 +40,9 @@ If you have any question, you can discuss with me.
 <p>
 You can call me Ben.<br>
 I‘m an Android developer.<br> 
-Over 2 Years of programing experience.<br>
-I have developed apps with over 300,000 downloads.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=lab.italkutalk"><img style="height:30px;" src="https://img.shields.io/badge/-iTalkuTalk-69A0D6?style=flat-square&logo=android&logoColor=white"></a>
+I currently stay in Taipei, Taiwan:flag-tw:.<br>
+I have over 2 years of programing experience.<br>
+I’ve developed an app with over 167k users across 200+ countries.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=lab.italkutalk"><img style="height:30px;" src="https://img.shields.io/badge/-iTalkuTalk-69A0D6?style=flat-square&logo=android&logoColor=white"></a>
 </p>
 
 ---
