@@ -42,15 +42,9 @@ I’ve developed an app with over 167k users across 200+ countries.&nbsp;&nbsp;&
 ```kotlin
 val myself = object {
     val pronouns = "he || his"
-    val codingExperienceYears = 2 .. 3
-    val code = arrayListOf<String>("Kotlin", "Java", "Html", "Javascript", "C", "C++")
-    val tools = arrayListOf<String>("Android Studio", "Figma", "Slack", "Notion")
-    val technologies = "{" +
-            "\"mobileApp\": \"Android Studio\"," +
-            "\"devOps\": [\"AWS\", \"Facebook api\", \"Google Platform\"]," +
-            "\"databases\": [\"MySql\", \"sqlite\"]," +
-            "\"misc\": [\"FireBase\", \"Socket.IO\"]" +
-            "}"
+    var codingExperienceYears = 2 .. 3
+    var code = arrayListOf<String>("Kotlin", "Java", "Html", "Javascript", "C", "C++")
+    var tools = arrayListOf<String>("Android Studio", "Figma", "Slack", "Notion")
 
     init {
         val info = getPersonalInfo()
@@ -59,11 +53,11 @@ val myself = object {
 
     private fun getPersonalInfo() = object {
         val name = "Yu Shu Lin"
-        val nickName = "Ben"
+        var nickName = "Ben"
         val country = "Taiwan"
-        val age = "24"
-        val languageSpoken = arrayListOf<String>("zh_CN", "en_US")
-        val hobbies = "Sport, coding, watching dramas, climbing mountains"
+        var age = "24"
+        var languageSpoken = arrayListOf<String>("zh_CN", "en_US")
+        var hobbies = "Sport, coding, watching dramas, climbing mountains"
     }
 }
 ```
@@ -93,10 +87,10 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## Get in touch
 <p>
   <a href="https://www.github.com/t109368015">
-  <img style="height:30px" alt="Github" src="https://img.shields.io/badge/-t109368015-C4C4C4?style=flat&logo=github&logoColor=#0A66C2"/></a>
+  <img style="height:30px" alt="Github" src="https://img.shields.io/badge/-YuShuLin-F7F7F7?style=flat&logo=github&logoColor=#0A66C2"/></a>
   <a href="https://www.google.com/intl/zh-TW/gmail/about/">
-  <img style="height:30px" alt="Gmail" src="https://img.shields.io/badge/-ben111497@gmail.com-C4C4C4?style=flat&logo=gmail&logoColor=#EA4335"/></a><br>
+  <img style="height:30px" alt="Gmail" src="https://img.shields.io/badge/-ben111497@gmail.com-F7F7F7?style=flat&logo=gmail&logoColor=#EA4335"/></a><br>
   <a href="https://discord.com/">
-  <img style="height:30px" alt="Discord" src="https://img.shields.io/badge/-AAAAA%237597-C4C4C4?style=flat&logo=discord&logoColor=#5865F2"/></a><br>
+  <img style="height:30px" alt="Discord" src="https://img.shields.io/badge/-AAAAA%237597-F7F7F7?style=flat&logo=discord&logoColor=#5865F2"/></a><br>
 </p>
 
