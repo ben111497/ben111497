@@ -47,7 +47,7 @@ I have developed apps with over 300,000 downloads.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=t109368015&label=Visitors&color=0e75b6&style=flat"/>
+    <img style="width:125px;" src="https://komarev.com/ghpvc/?username=t109368015&label=Visitors&color=4E80C2&style=plastic"/>
 <!--     <img src="https://img.shields.io/github/followers/t109368015?label=Followers"> -->
 </p>
 
