@@ -6,7 +6,8 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img style="height:22px" alt="kotlin" src="https://img.shields.io/badge/-Kotlin-7971E1?style=flat-square&logo=kotlin&logoColor=white">
+  <a href="https://kotlinlang.org/">
+  <img style="height:22px" alt="kotlin" src="https://img.shields.io/badge/-Kotlin-7971E1?style=flat-square&logo=kotlin&logoColor=white"></a>
   <img style="height:22px" alt="android" src="https://img.shields.io/badge/-Android-70D78B?style=flat-square&logo=android&logoColor=white">
   <img style="height:22px" alt="java" src="https://img.shields.io/badge/-Java-ff1234?style=flat-square&logo=java&logoColor=white">
   <img style="height:22px" alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
