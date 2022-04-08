@@ -16,15 +16,19 @@
 
 ---
 
-<p>
-  <img width="150px" height="100px" align='right' src="https://user-images.githubusercontent.com/22675497/162193592-1e98b773-3f35-404f-b31f-bb2e0c6e200f.gif">
-</p>
+<table><tr><td bgcolor="#FFFFFF" border-color="#FF0000">背景色是：orange</td></tr></table>
 
 <p>
+  <img height="135px" align='right' src="https://user-images.githubusercontent.com/22675497/162193592-1e98b773-3f35-404f-b31f-bb2e0c6e200f.gif">
+</p>
+
+<div>
 <h3>My name is Yu Shu Lin</h3>
 
 I have a passion for learning and discuss with others.  
 If you have any question, you can discuss with me.   
+I’ve developed an app with over 167k users across 200+ countries.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=lab.italkutalk"><img style="height:30px;" src="https://img.shields.io/badge/-iTalkuTalk-69A0D6?style=flat-square&logo=android&logoColor=white"></a>
+</p>
 
 </p>
 
@@ -34,16 +38,40 @@ If you have any question, you can discuss with me.
   <img width="160px" height="160px" align='left' src="https://user-images.githubusercontent.com/22675497/162159887-43aa4ca3-9491-467c-8a51-627f57977c75.png">
 </p>
 
-<p>
 <h3>A little bit about me</h3>
+  
+</div>
 
-<p>
-You can call me Ben.<br>
-I‘m an Android developer.<br> 
-I currently stay in Taipei, Taiwan:flag-tw:.<br>
-I have over 2 years of programing experience.<br>
-I’ve developed an app with over 167k users across 200+ countries.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=lab.italkutalk"><img style="height:30px;" src="https://img.shields.io/badge/-iTalkuTalk-69A0D6?style=flat-square&logo=android&logoColor=white"></a>
-</p>
+```kotlin
+val myself = object {
+    val pronouns = "he || his"
+    val codingExperienceYears = 2 .. 3
+    val code = arrayListOf<String>("Kotlin", "Java", "Html", "Javascript", "C", "C++")
+    val tools = arrayListOf<String>("Android Studio", "Figma", "Slack", "Notion")
+    val technologies = "{" +
+            "\"mobileApp\": \"Android Studio\"," +
+            "\"devOps\": [\"AWS\", \"Facebook api\", \"Google Platform\"], " +
+            "\"databases\": [\"MySql\", \"sqlite\"], " +
+            "\"misc\": [\"FireBase\", \"Socket.IO\"]" +
+            "}"
+
+    init {
+        val info = getPersonalInfo()
+        print("Hi, my name is ${info.name},\nYou can call me ${info.nickName}.")
+    }
+
+    private fun getPersonalInfo() = object {
+        val name = "Yu Shu Lin"
+        val nickName = "Ben"
+        val Country = "Taiwan"
+        val year = "24"
+        val languageSpoken = arrayListOf<String>("zh_CN", "en_US")
+        val hobbies = "Sport, coding, watching dramas, climbing mountains"
+    }
+}
+```
+
+</div>
 
 ---
 
