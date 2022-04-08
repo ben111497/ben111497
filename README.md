@@ -4,7 +4,7 @@
 <p>
   <a href="https://kotlinlang.org/">
   <img style="height:22px" alt="kotlin" src="https://img.shields.io/badge/-Kotlin-7971E1?style=flat-square&logo=kotlin&logoColor=white"></a>
-  <img style="height:22px" alt="android" src="https://img.shields.io/badge/-Android-70D78B?style=flat-square&logo=android&logoColor=white">
+  <img style="height:22px" alt="android" src="https://img.shields.io/badge/-Android-70D78B?style=for-the-badge&logo=android&logoColor=white">
   <img style="height:22px" alt="java" src="https://img.shields.io/badge/-Java-ff1234?style=flat-square&logo=java&logoColor=white">
   <img style="height:22px" alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img style="height:22px" alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -12,6 +12,7 @@
   <img style="height:22px" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img style="height:22px" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img style="height:22px" alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
+  <img style="height:22px" alt="Firebase" src="https://img.shields.io/badge/-c-FFFFFF?style=flat-square&logo=c&logoColor=black" />
 </p>
 
 ---
@@ -32,13 +33,7 @@ I’ve developed an app with over 167k users across 200+ countries.&nbsp;&nbsp;&
 
 ---
 
-<p>
-  <img width="160px" height="160px" align='left' src="https://user-images.githubusercontent.com/22675497/162159887-43aa4ca3-9491-467c-8a51-627f57977c75.png">
-</p>
-
 <h3>A little bit about me</h3>
-  
-</div>
 
 ```kotlin
 val myself = object {
@@ -62,14 +57,12 @@ val myself = object {
         val name = "Yu Shu Lin"
         val nickName = "Ben"
         val country = "Taiwan"
-        val year = "24"
+        val age = "24"
         val languageSpoken = arrayListOf<String>("zh_CN", "en_US")
         val hobbies = "Sport, coding, watching dramas, climbing mountains"
     }
 }
 ```
-
-</div>
 
 ---
 
@@ -85,14 +78,19 @@ val myself = object {
     <img width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=t109368015&layout=compact&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,3F51B1,5A55AE,7B5FAC,8F6AAE,A86AA4,CC6B8E,F18271,F3A469,F7C978">
 <!--   F7C978,F3A469,F18271,CC6B8E,A86AA4,8F6AAE,7B5FAC,5A55AE,3F51B1   -->
   </a>
+  
 </div>
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 ---
 
 ## Get in touch
-- Email：ben111497@gmail.com
-- GitHub：[t109368015](https://www.github.com/t109368015)
+<p>
+  <a href="https://www.google.com/intl/zh-TW/gmail/about/">
+  <img style="height:30px" alt="Gmail" src="https://img.shields.io/badge/-ben111497@gmail.com-C4C4C4?style=flat&logo=gmail&logoColor=#EA4335"/></a><br>
+  <a href="https://discord.com/">
+  <img style="height:30px" alt="Discord" src="https://img.shields.io/badge/-AAAAA%237597-C4C4C4?style=flat&logo=discord&logoColor=#5865F2"/></a><br>
+  <a href="https://www.linkedin.com/in/%E5%93%B2%E5%81%89-%E9%99%B3-3a749b235/">
+  <img style="height:30px" alt="Linkedin" src="https://img.shields.io/badge/-林煜書-C4C4C4?style=flat&logo=Linkedin&logoColor=#0A66C2"/></a>
+</p>
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
