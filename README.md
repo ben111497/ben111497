@@ -1,9 +1,5 @@
 <h1 align="center">Hey there 👋 </h1>
 
-<p>
-
-</p>
-
 <h3>Things I code with</h3>
 <p>
   <a href="https://kotlinlang.org/">
@@ -47,6 +43,7 @@ I‘m an Android developer.<br>
 Over 2 Years of programing experience.<br>
 I have developed apps with over 300,000 downloads.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=lab.italkutalk"><img style="height:30px;" src="https://img.shields.io/badge/-iTalkuTalk-69A0D6?style=flat-square&logo=android&logoColor=white"></a>
 </p>
+
 ---
 
 <p align="center">
