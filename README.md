@@ -50,8 +50,8 @@ val myself = object {
     val tools = arrayListOf<String>("Android Studio", "Figma", "Slack", "Notion")
     val technologies = "{" +
             "\"mobileApp\": \"Android Studio\"," +
-            "\"devOps\": [\"AWS\", \"Facebook api\", \"Google Platform\"], " +
-            "\"databases\": [\"MySql\", \"sqlite\"], " +
+            "\"devOps\": [\"AWS\", \"Facebook api\", \"Google Platform\"]," +
+            "\"databases\": [\"MySql\", \"sqlite\"]," +
             "\"misc\": [\"FireBase\", \"Socket.IO\"]" +
             "}"
 
