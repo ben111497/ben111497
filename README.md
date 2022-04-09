@@ -25,12 +25,12 @@
   <img height="135px" align='right' src="https://user-images.githubusercontent.com/22675497/162193592-1e98b773-3f35-404f-b31f-bb2e0c6e200f.gif">
 </p>
 
-<div>
 <h3>My name is Yu Shu Lin</h3>
 
-I have a passion for learning and discuss with others.  
-If you have any question, you can discuss with me.   
-I’ve developed an app with over 167k users across 200+ countries.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=lab.italkutalk"><img style="height:30px;" src="https://img.shields.io/badge/-iTalkuTalk-69A0D6?style=flat-square&logo=android&logoColor=white"></a>
+- I have a passion for learning and discuss with others.  
+- If you have any question, you can discuss with me.   
+- I’ve developed an app with over 167k users across 200+ countries.<br><br>
+<a href="https://play.google.com/store/apps/details?id=lab.italkutalk"><img style="height:30px;" src="https://img.shields.io/badge/-iTalkuTalk-69A0D6?style=flat-square&logo=android&logoColor=white"></a>
 </p>
 
 </p>
