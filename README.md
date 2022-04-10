@@ -82,10 +82,8 @@ val myself = object {
   </a>
 </div>
 
-<p width=75%>
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
-</p>
-
+<p width="60">NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.</p>
+  
 ---
 
 <h3>Get in touch</h3>
