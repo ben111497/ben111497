@@ -74,15 +74,14 @@ val myself = object {
 
 <div align="center">
   <a href="https://www.github.com/t109368015" target="blank">
-    <img width=50% src="http://github-readme-streak-stats.herokuapp.com?user=t109368015&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=23272D&ring=DDA12C&fire=DD2727&currStreakNum=61FFBA&sideNums=51D49BEE&currStreakLabel=FFFFFF&dates=F8E0FF"><br> 
-    <img width=45% src="https://github-readme-stats.vercel.app/api?username=t109368015&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,3F51B1,5A55AE,7B5FAC,8F6AAE,A86AA4,CC6B8E,F18271,F3A469,F7C978">
-    <img width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=t109368015&layout=compact&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,3F51B1,5A55AE,7B5FAC,8F6AAE,A86AA4,CC6B8E,F18271,F3A469,F7C978"><br><br>
-    <img width=85% src="https://github-profile-trophy.vercel.app/?username=t109368015&row=1&theme=onedark&no-bg=true&no-frame=true"><br><br>
-<!--   F7C978,F3A469,F18271,CC6B8E,A86AA4,8F6AAE,7B5FAC,5A55AE,3F51B1   -->
+    <p>
+    <img width=45% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=t109368015&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=23272D&ring=DDA12C&fire=DD2727&currStreakNum=61FFBA&sideNums=51D49BEE&currStreakLabel=FFFFFF&dates=F8E0FF">
+    <img width=45% align="right" src="https://github-readme-stats.vercel.app/api?username=t109368015&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,3F51B1,5A55AE,7B5FAC,8F6AAE,A86AA4,CC6B8E,F18271,F3A469,F7C978"></p>
+    <img width=85% src="https://github-profile-trophy.vercel.app/?username=t109368015&row=1&theme=onedark&no-bg=true&no-frame=true">
   </a>
 </div>
 
-<p width="50">NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.</p>
+<p width=50%>NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.</p>
   
 ---
 
@@ -96,3 +95,11 @@ val myself = object {
   <img style="height:25px" alt="Discord" src="https://img.shields.io/badge/-AAAAA%237597-F7F7F7?style=flat&logo=discord&logoColor=5865F2"/></a><br>
 </p>
 
+---
+
+<h3>Other</h3>
+
+<p>
+<img width=45% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t109368015&layout=compact&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,3F51B1,5A55AE,7B5FAC,8F6AAE,A86AA4,CC6B8E,F18271,F3A469,F7C978">
+  <img width=45% align="right" src="https://leetcode.card.workers.dev/YuShuLin?&theme=dark&font=source_code_pro&extension=null">
+</p>
